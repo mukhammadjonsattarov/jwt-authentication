@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: uz.sirius.jwt_authentication_project.JwtAuthenticationProjec
+ tApplication
+
